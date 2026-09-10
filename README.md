@@ -59,7 +59,7 @@ Ensure you have [Node.js](https://nodejs.org/) installed.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Imtiaz-Ali17314/Macrozone.git
+   git clone https://github.com/imtiazaly/Macrozone.git
    cd Macrozone
    ```
 
