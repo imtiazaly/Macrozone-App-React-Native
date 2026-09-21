@@ -7,9 +7,9 @@
 ## 📱 App Screenshots
 
 <div align="center">
-  <img src="assets/projectPreview/home.PNG" height="550" alt="Home Dashboard" style="margin: 0 12px; border-radius: 12px;" />
-  <img src="assets/projectPreview/add-meal.PNG" height="550" alt="Add Meal Screen" style="margin: 0 12px; border-radius: 12px;" />
-  <img src="assets/projectPreview/All-meals.PNG" height="550" alt="All Meals Screen" style="margin: 0 12px; border-radius: 12px;" />
+  <img src="assets/home.PNG" height="550" alt="Home Dashboard" style="margin: 0 12px; border-radius: 12px;" />
+  <img src="assets/add-meal.PNG" height="550" alt="Add Meal Screen" style="margin: 0 12px; border-radius: 12px;" />
+  <img src="assets/All-meals.PNG" height="550" alt="All Meals Screen" style="margin: 0 12px; border-radius: 12px;" />
 </div>
 
 ---
